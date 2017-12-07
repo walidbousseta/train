@@ -1,0 +1,7 @@
+/** requte sql de tout les gard dans maroc **/
+/** 1- creat your database
+2- creat a table with 2 culm (id, nom)
+3- use the line abouve to insert all city gard
+4- enjoy
+**/
+INSERT INTO ville (id, nom) VALUES(1, 'AEROPORT Med V'),(2, 'AIN SEBAA'),(3, 'AIN-TAOUJDATE'),(4, 'ASILAH'),(5, 'AZEMMOUR HALTE'),(6, 'BENGUERIR'),(7, 'BENI NSAR VILLE'),(8, 'BERRECHID'),(9, 'BIDANE'),(10, 'BOUSKOURA'),(11, 'BOUZNIKA'),(12, 'CASA PORT'),(13, 'CASA VOYAGEURS'),(14, 'DALIA'),(15, 'DAR EL GUEDARI'),(16, 'EL AIOUN'),(17, 'EL JADIDA'),(18, 'EL KSAR EL KEBIR'),(19, 'ENNASSIM'),(20, 'FACULTES'),(21, 'FES'),(22, 'GUERCIF'),(23, 'KENITRA'),(24, 'KENITRA MEDINA'),(25, 'KHOURIBGA'),(26, 'L OASIS'),(27, 'MARRAKECH'),(28, 'MECHRA BEL KSIRI'),(29, 'MEKNES'),(30, 'MEKNES AL AMIR'),(31, 'MELLOUSSA 1'),(32, 'MERS SULTAN'),(33, 'MOHAMMEDIA'),(34, 'MOULAY EL MEHDI'),(35, 'NADOR SUD'),(36, 'NADOR VILLE'),(37, 'OUED AMLIL'),(38, 'OUED ZEM'),(39, 'OUJDA'),(40, 'Port Tanger Med'),(41, 'RABAT AGDAL'),(42, 'RABAT VILLE'),(43, 'RAS EL AIN'),(44, 'SAFI'),(45, 'SALE'),(46, 'SALE TABRIQUET'),(47, 'SEBAA-AIOUN'),(48, 'SELOUANE'),(49, 'SETTAT'),(50, 'SIDI ABDALLAH'),(51, 'SIDI EL AIDI'),(52, 'SIDI HAJJAJ'),(53, 'SIDI KACEM'),(54, 'SIDI SLIMANE MEDINA'),(55, 'SIDI YAHIA'),(56, 'SKHIRAT'),(57, 'SOUK EL ARBAA'),(58, 'TANGER'),(59, 'TANGER MORORA'),(60, 'TAOURIRT'),(61, 'TAZA'),(62, 'TEMARA'),(63, 'Test Sabil'),(64, 'YOUSSOUFIA');
